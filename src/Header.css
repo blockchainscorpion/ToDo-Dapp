@@ -1,0 +1,16 @@
+.Header{
+    background-color:grey;
+    height: 100px;
+    padding: 3px;
+}
+
+li{
+    float:left;
+    padding:10px;
+}
+
+ul{
+    list-style-type:none;
+    margin: 0px;
+    padding: 0px;
+}
